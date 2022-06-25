@@ -34,15 +34,25 @@ f) wykonanie skryptu poleceń:
 
 
 **Przykład**
+
 Plik wejściowy: 
+
 5 //liczba poleceń 
+
 W 1,6 //wstaw liczbę 1,5 1 
+
 W 1,8 //wstaw liczbę 1,8
+
 S 2,5 //szukaj liczby 2,5
+
 W 2,1 //wstaw liczbę 2,1
+
 U 1,6 //usuń liczbę 1,6
+
 L 2 //ile liczb posiada część całkowitą 2
 
 Plik wyjściowy:
+
 NIE //liczba 2,5 nie występuje w drzewie
+
 //1 liczba posiada część całkowitą 2
